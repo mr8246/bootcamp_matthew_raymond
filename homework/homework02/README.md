@@ -1,0 +1,3 @@
+# Homework 02 — Tooling Setup Practice
+
+In this assignment, I practiced creating an isolated conda environment (`fe-course`), installing required packages (`python-dotenv`, `numpy`, `jupyter`), and building a reproducible project folder structure (`data/raw/`, `data/processed/`, `notebooks/`, `src/`, `docs/`, `reports/`, `model/`). I also practiced managing secrets safely using a `.env` file (excluded from Git via `.gitignore`), writing a reusable config helper (`src/config.py`), and verifying everything works correctly inside a Jupyter notebook. This structure mirrors what I will build for real inside the `project/` folder.
